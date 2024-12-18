@@ -8,7 +8,7 @@
     margin-right: 50px;            
     padding: 92px 25px 96px 25px;
 }
-.header__menu{
+.header__menu {
     width: 391.48px;
     height: 22px;
     top: 133px;
@@ -145,9 +145,7 @@
     line-height: 46.96px;
     text-align: left;
     text-underline-position: from-font;
-
     padding-left: 40px;
-    line-height: 46px;
     margin-bottom: 27px;
     text-transform: uppercase;
 }
@@ -164,7 +162,7 @@
     border-bottom: 1px solid #000;
     padding-bottom: 1px;
     position: relative;
-    top: +30px;  
+    top: +30px;
 }
 .lots__card-list-item {
     margin: 0;
@@ -172,7 +170,7 @@
     width: 334px;
     min-height: 596px;
 }
-a,article  {
+a,article {
     height: 100%;
     text-decoration: none;
 }
@@ -245,7 +243,6 @@ a,article  {
     font-family: Raleway;
     font-size: 40px;
     font-weight: 700;
-    line-height: 46.96px;
     text-align: left;
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
@@ -276,7 +273,7 @@ a,article  {
     margin-top: 180px;
     height: 180px;
 }
-.address__footer{
+.address__footer {
     width: 264.57px;
     height: 98px;
     left: 50px;
