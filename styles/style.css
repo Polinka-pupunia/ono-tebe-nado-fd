@@ -280,4 +280,7 @@ a,article {
     justify-content: flex-end;
     gap:48px;
 }
+body{
+    padding-bottom: 82px;
+}
     
